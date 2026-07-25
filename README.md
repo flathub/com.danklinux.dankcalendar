@@ -1,6 +1,10 @@
 # DankCalendar on Flatpak
 
-[![DankLinux](assets/danklogo.svg)](https://danklinux.com)
+<div align="center">
+  <a href="https://danklinux.com">
+    <img src="assets/danklogo.svg" alt="DankCalendar" width="200">
+  </a>
+</div>
 
 [DankCalendar](https://danklinux.com/docs/dankcalendar/) is a standalone calendar app for the modern Linux desktop with a Material Design 3 inspired UI. It brings your Local, Google, Microsoft, CalDAV, and iCloud calendars together in one place. It runs as a lightweight daemon with a tray icon, keeps your accounts in sync, and reminds you about events.
 
