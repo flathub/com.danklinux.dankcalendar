@@ -150,7 +150,9 @@ github.com/duxlabs-dev/dux-go/paths
 github.com/duxlabs-dev/dux-go/portal
 github.com/duxlabs-dev/dux-go/shellapp
 github.com/duxlabs-dev/dux-go/shellapp/shellfs
+github.com/duxlabs-dev/dux-go/syncmap
 github.com/duxlabs-dev/dux-go/trash
+github.com/duxlabs-dev/dux-go/wayland/client
 # github.com/dvsekhvalnov/jose2go v1.11.0
 ## explicit; go 1.15
 github.com/dvsekhvalnov/jose2go
